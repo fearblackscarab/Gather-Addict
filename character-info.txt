@@ -1,0 +1,12 @@
+character primary stats
+==========
+
+-Strength- requirements
+-Intellect- efficiency
+-Agility- speed
+-Vitality- energy till rest needed
+
+Lvl up
+---
+- unclickable upgrade buttons till lvl up
+- click which skill you'd like to upgrade
