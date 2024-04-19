@@ -1,9 +1,8 @@
+import "./main.css"
 const Main = (props) => {
     return (
-        <div>
-            <div className="head-player-name">name</div>
-            <div className="head-player-stats">Stats</div>
-            <div className="head-player-lvl">lvl</div>
+        <div className="main">
+            <div className="game-area">GAME AREA</div>
         </div>
     );
 };

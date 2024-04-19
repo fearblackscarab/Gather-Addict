@@ -1,6 +1,7 @@
+import "./header.css"
 const Header = (props) => {
     return (
-        <div>
+        <div className="header">
             <div className="head-player-name">{props.name}</div>
             <div className="head-player-stats">
                 <div>

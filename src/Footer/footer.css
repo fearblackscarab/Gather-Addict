@@ -1,0 +1,13 @@
+.footer{
+    margin: 0;
+    padding: 0;
+    height: 10vh;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+.footer-content{
+    margin: auto;
+    padding: 0;
+}

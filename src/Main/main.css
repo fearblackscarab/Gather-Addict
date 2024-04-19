@@ -1,0 +1,11 @@
+.main{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    height: 80vh;
+}
+
+.game-area{
+    margin: auto;
+    padding: 0;
+}

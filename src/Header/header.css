@@ -1,0 +1,13 @@
+.header{
+    margin: 0;
+    padding: 0;
+    height: 10vh;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+.head-player-name,.head-player-stats,.head-player-lvl{
+    margin: auto;
+    padding: 0;
+}

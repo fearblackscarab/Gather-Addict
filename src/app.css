@@ -1,0 +1,15 @@
+:root{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    color: lightgray;
+    margin: 0;
+    padding: 0;
+}
+
+.invalid{
+    margin: 0;
+    padding: 0;
+}

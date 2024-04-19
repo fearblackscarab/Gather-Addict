@@ -2,6 +2,7 @@ import { useState } from 'react'
 import Header from './Header/Header';
 import Main from './Main/Main';
 import Footer from './Footer/Footer';
+import "./app.css"
 
 function App() {
   const [character,setCharacter] = useState({
@@ -14,11 +15,11 @@ function App() {
  });
 
   return (
-    <>
+    <div className='invalid'>
       <Header name={character.name} strength={character.strength} intellect={character.intellect} agility={character.agility} vitality={character.vitality} level={character.level}/>
       <Main/>
       <Footer/>
-    </>
+    </div>
   )
 }
 
